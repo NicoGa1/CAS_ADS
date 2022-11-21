@@ -8,8 +8,8 @@ The files for the M2 project are:
 - Rent prices cleaned
 - Rooms_clean2
 
-## 2. M3: ML on Parkinson drawings
+## 2. M3: ML on CIFRA10 pictures
 
-The data for the M3 project comes from the dataset "Parkinson's Drawings" by K Scott Mader on Kaggle under CC BY-NC-ND 4.0 Licence:
-https://www.kaggle.com/datasets/kmader/parkinsons-drawings?resource=download
+The data for the M3 project comes from the dataset CIFRA10 from the keras.io team:
+https://keras.io/api/datasets/cifar10/
 
