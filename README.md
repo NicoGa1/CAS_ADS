@@ -17,3 +17,9 @@ The data for the M3 project comes from the dataset CIFRA10 from the keras.io tea
 https://keras.io/api/datasets/cifar10/
 You can find the notebook for supervised ML, unsupervised ML part as well as our presentation in the folder.
 This work has been performed together with fbaertl (https://github.com/fbaertl)
+
+## 4. Module6: TensorFlow and Neural networks
+
+The data for the M6 project also comes from the dataset CIFRA10 from the keras.io team.
+You can find the notebook as well as our presentation in the corresponding folder.
+This work has also been performed together with fbaertl (https://github.com/fbaertl)
